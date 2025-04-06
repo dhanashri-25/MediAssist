@@ -189,6 +189,8 @@ The predictive model is built using Support Vector Classification (SVC) from sci
 ![image](https://github.com/user-attachments/assets/e9368c76-461c-42c9-9199-fec64f345cc6)
 ![image](https://github.com/user-attachments/assets/c68882c6-ad3b-4ff4-95c5-f2a8a79ef0f2)
 ![image](https://github.com/user-attachments/assets/af290365-3674-4e16-bb9e-589db2d83571)
+![image](https://github.com/user-attachments/assets/0eac56b3-e49b-47c9-8eaa-2989e18cd454)
+
 
 
 ## ⚠️ Disclaimer
