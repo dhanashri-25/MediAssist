@@ -1,4 +1,4 @@
-# MediAssist - Symptom Analysis & Medical Recommendations
+# MediAssist - Symptom Analysis & Medical Recommendation System
 
 
 MediAssist is an advanced web application that uses machine learning to analyze user-input symptoms and provide potential medical diagnoses along with comprehensive recommendations for treatment, precautions, dietary advice, and exercise routines.
